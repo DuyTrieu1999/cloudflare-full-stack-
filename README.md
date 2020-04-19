@@ -1,5 +1,19 @@
 # Cloudflare Workers Internship Application: Full-Stack
 
+## Duy Trieu's application
+
+I have finished the challenge and extra credit 1, 2. I have fetched the required url, 
+randomize the two calls, and change the html components, as well as adding the required cookie
+variants. The link the deployed website is at: https://duy-trieu-fullstack.duytrieufullstack.workers.dev
+
+
+Overall, this is a really
+fun challenge and it tests applicants a lot about basic web application knowledge. It also allows students to
+learn more about Cloudflare products, especially workers and its server applications.
+I would like to thank you Cloudflare for designing this amazing challenge, and allowing
+students who has their internship affected by Covid-19 to have another chance at finding a job this summer. You guys
+are truly an amazing company. 
+
 ## What is it?
 
 Using Cloudflare Workers, you'll deploy an application that will randomly send users to one of two webpages. This project will teach you how to write applications with the Cloudflare Workers API, manage and develop them using the command-line tool Wrangler, and deploy them to the free workers.dev deployment playground.

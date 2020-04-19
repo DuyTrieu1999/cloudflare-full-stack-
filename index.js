@@ -1,7 +1,7 @@
 addEventListener('fetch', event => {
   event.respondWith(getData(event.request));
 });
-// store datasource
+// store data source
 let dataSource = [];
 // map for components in random variant page 1
 let changeURL1String = new Map();
@@ -87,7 +87,6 @@ class ElementHandler {
     }
   }
 }
-
 function setCookie(res,name,value,days) {
   var expires = "";
   if (days) {
